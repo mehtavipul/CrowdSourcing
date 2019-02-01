@@ -1,0 +1,12 @@
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\bin\Debug\netcoreapp2.2\SE.Catalog.Contracts.deps.json
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\bin\Debug\netcoreapp2.2\SE.Catalog.Contracts.dll
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\bin\Debug\netcoreapp2.2\SE.Catalog.Contracts.pdb
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\obj\Debug\netcoreapp2.2\SE.Catalog.Contracts.csprojAssemblyReference.cache
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\obj\Debug\netcoreapp2.2\SE.Catalog.Contracts.csproj.CoreCompileInputs.cache
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\obj\Debug\netcoreapp2.2\SE.Catalog.Contracts.AssemblyInfoInputs.cache
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\obj\Debug\netcoreapp2.2\SE.Catalog.Contracts.AssemblyInfo.cs
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\obj\Debug\netcoreapp2.2\SE.Catalog.Contracts.dll
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\obj\Debug\netcoreapp2.2\SE.Catalog.Contracts.pdb
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\bin\Debug\netcoreapp2.2\SE.Catalog.Models.dll
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\bin\Debug\netcoreapp2.2\SE.Catalog.Models.pdb
+C:\s\cs\api\SE.Catalog.API\SE.Catalog.Contracts\obj\Debug\netcoreapp2.2\SE.Catalog.Contracts.csproj.CopyComplete
